@@ -53,7 +53,6 @@ public class Moottorit implements Runnable {
 		}
 	}
 
-	// Toimii aika hyvin
 	public void esteenVaistoOikea2() {
 		// Otetaan alkuperäinen nopeus talteen, ja asetetaan uudeksi nopeudeksi 300
 
