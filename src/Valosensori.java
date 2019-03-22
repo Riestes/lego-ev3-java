@@ -7,7 +7,6 @@ import lejos.robotics.*;
 
 public class Valosensori {
 
-	// testmain koukku;
 	Valosensori ColorSensor;
 
 	static EV3ColorSensor EV3CS = new EV3ColorSensor(SensorPort.S1);
